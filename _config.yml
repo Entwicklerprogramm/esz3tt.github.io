@@ -22,7 +22,7 @@ title: B C K L O O X
 email: esz3tt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "Prototype [Test <be carefully>]" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://esz3tt.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 github_username:  esz3tt
